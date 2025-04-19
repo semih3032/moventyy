@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <Button
+        android:id="@+id/btnPickVideo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Video Seç"
+        android:backgroundTint="@color/purple_700"
+        android:textColor="@color/white"/>
+
+    <EditText
+        android:id="@+id/inputStart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Başlangıç zamanı (örn: 00:00:05)"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"/>
+
+    <EditText
+        android:id="@+id/inputEnd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Bitiş zamanı (örn: 00:00:15)"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"/>
+
+    <Button
+        android:id="@+id/btnCutVideo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Videoyu Kes"
+        android:backgroundTint="@color/green"
+        android:textColor="@color/white"/>
+</LinearLayout>

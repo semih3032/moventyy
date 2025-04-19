@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Moventy</string>
+    <string name="select_video">Videoyu Seç</string>
+    <string name="apply_effect">Efekt Uygula</string>
+    <string name="export_video">Videoyu Dışa Aktar</string>
+    <string name="editor_title">Video Editörü</string>
+</resources>

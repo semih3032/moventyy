@@ -1,0 +1,1004 @@
+{
+    "transitions": [
+        {
+            "name": "Transition_1",
+            "description": "Ge\u00e7i\u015f efekti 1 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=1:offset=1\""
+        },
+        {
+            "name": "Transition_2",
+            "description": "Ge\u00e7i\u015f efekti 2 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=2\""
+        },
+        {
+            "name": "Transition_3",
+            "description": "Ge\u00e7i\u015f efekti 3 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=3:offset=3\""
+        },
+        {
+            "name": "Transition_4",
+            "description": "Ge\u00e7i\u015f efekti 4 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=2:offset=4\""
+        },
+        {
+            "name": "Transition_5",
+            "description": "Ge\u00e7i\u015f efekti 5 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=5\""
+        },
+        {
+            "name": "Transition_6",
+            "description": "Ge\u00e7i\u015f efekti 6 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=3:offset=6\""
+        },
+        {
+            "name": "Transition_7",
+            "description": "Ge\u00e7i\u015f efekti 7 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=7\""
+        },
+        {
+            "name": "Transition_8",
+            "description": "Ge\u00e7i\u015f efekti 8 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=2:offset=8\""
+        },
+        {
+            "name": "Transition_9",
+            "description": "Ge\u00e7i\u015f efekti 9 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=9\""
+        },
+        {
+            "name": "Transition_10",
+            "description": "Ge\u00e7i\u015f efekti 10 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=10\""
+        },
+        {
+            "name": "Transition_11",
+            "description": "Ge\u00e7i\u015f efekti 11 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=11\""
+        },
+        {
+            "name": "Transition_12",
+            "description": "Ge\u00e7i\u015f efekti 12 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=12\""
+        },
+        {
+            "name": "Transition_13",
+            "description": "Ge\u00e7i\u015f efekti 13 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=13\""
+        },
+        {
+            "name": "Transition_14",
+            "description": "Ge\u00e7i\u015f efekti 14 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=1:offset=14\""
+        },
+        {
+            "name": "Transition_15",
+            "description": "Ge\u00e7i\u015f efekti 15 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=3:offset=15\""
+        },
+        {
+            "name": "Transition_16",
+            "description": "Ge\u00e7i\u015f efekti 16 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=3:offset=16\""
+        },
+        {
+            "name": "Transition_17",
+            "description": "Ge\u00e7i\u015f efekti 17 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=3:offset=17\""
+        },
+        {
+            "name": "Transition_18",
+            "description": "Ge\u00e7i\u015f efekti 18 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=1:offset=18\""
+        },
+        {
+            "name": "Transition_19",
+            "description": "Ge\u00e7i\u015f efekti 19 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=19\""
+        },
+        {
+            "name": "Transition_20",
+            "description": "Ge\u00e7i\u015f efekti 20 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=3:offset=20\""
+        },
+        {
+            "name": "Transition_21",
+            "description": "Ge\u00e7i\u015f efekti 21 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=1:offset=21\""
+        },
+        {
+            "name": "Transition_22",
+            "description": "Ge\u00e7i\u015f efekti 22 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=2:offset=22\""
+        },
+        {
+            "name": "Transition_23",
+            "description": "Ge\u00e7i\u015f efekti 23 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=2:offset=23\""
+        },
+        {
+            "name": "Transition_24",
+            "description": "Ge\u00e7i\u015f efekti 24 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=3:offset=24\""
+        },
+        {
+            "name": "Transition_25",
+            "description": "Ge\u00e7i\u015f efekti 25 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=2:offset=25\""
+        },
+        {
+            "name": "Transition_26",
+            "description": "Ge\u00e7i\u015f efekti 26 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=1:offset=26\""
+        },
+        {
+            "name": "Transition_27",
+            "description": "Ge\u00e7i\u015f efekti 27 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=1:offset=27\""
+        },
+        {
+            "name": "Transition_28",
+            "description": "Ge\u00e7i\u015f efekti 28 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=28\""
+        },
+        {
+            "name": "Transition_29",
+            "description": "Ge\u00e7i\u015f efekti 29 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=2:offset=29\""
+        },
+        {
+            "name": "Transition_30",
+            "description": "Ge\u00e7i\u015f efekti 30 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=1:offset=30\""
+        },
+        {
+            "name": "Transition_31",
+            "description": "Ge\u00e7i\u015f efekti 31 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=2:offset=31\""
+        },
+        {
+            "name": "Transition_32",
+            "description": "Ge\u00e7i\u015f efekti 32 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=32\""
+        },
+        {
+            "name": "Transition_33",
+            "description": "Ge\u00e7i\u015f efekti 33 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=33\""
+        },
+        {
+            "name": "Transition_34",
+            "description": "Ge\u00e7i\u015f efekti 34 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=34\""
+        },
+        {
+            "name": "Transition_35",
+            "description": "Ge\u00e7i\u015f efekti 35 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=35\""
+        },
+        {
+            "name": "Transition_36",
+            "description": "Ge\u00e7i\u015f efekti 36 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=2:offset=36\""
+        },
+        {
+            "name": "Transition_37",
+            "description": "Ge\u00e7i\u015f efekti 37 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=1:offset=37\""
+        },
+        {
+            "name": "Transition_38",
+            "description": "Ge\u00e7i\u015f efekti 38 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=2:offset=38\""
+        },
+        {
+            "name": "Transition_39",
+            "description": "Ge\u00e7i\u015f efekti 39 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=2:offset=39\""
+        },
+        {
+            "name": "Transition_40",
+            "description": "Ge\u00e7i\u015f efekti 40 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=1:offset=40\""
+        },
+        {
+            "name": "Transition_41",
+            "description": "Ge\u00e7i\u015f efekti 41 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=2:offset=41\""
+        },
+        {
+            "name": "Transition_42",
+            "description": "Ge\u00e7i\u015f efekti 42 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=42\""
+        },
+        {
+            "name": "Transition_43",
+            "description": "Ge\u00e7i\u015f efekti 43 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=3:offset=43\""
+        },
+        {
+            "name": "Transition_44",
+            "description": "Ge\u00e7i\u015f efekti 44 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=1:offset=44\""
+        },
+        {
+            "name": "Transition_45",
+            "description": "Ge\u00e7i\u015f efekti 45 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=3:offset=45\""
+        },
+        {
+            "name": "Transition_46",
+            "description": "Ge\u00e7i\u015f efekti 46 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=2:offset=46\""
+        },
+        {
+            "name": "Transition_47",
+            "description": "Ge\u00e7i\u015f efekti 47 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=1:offset=47\""
+        },
+        {
+            "name": "Transition_48",
+            "description": "Ge\u00e7i\u015f efekti 48 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=48\""
+        },
+        {
+            "name": "Transition_49",
+            "description": "Ge\u00e7i\u015f efekti 49 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=49\""
+        },
+        {
+            "name": "Transition_50",
+            "description": "Ge\u00e7i\u015f efekti 50 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=2:offset=50\""
+        },
+        {
+            "name": "Transition_51",
+            "description": "Ge\u00e7i\u015f efekti 51 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=3:offset=51\""
+        },
+        {
+            "name": "Transition_52",
+            "description": "Ge\u00e7i\u015f efekti 52 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=52\""
+        },
+        {
+            "name": "Transition_53",
+            "description": "Ge\u00e7i\u015f efekti 53 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=53\""
+        },
+        {
+            "name": "Transition_54",
+            "description": "Ge\u00e7i\u015f efekti 54 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=54\""
+        },
+        {
+            "name": "Transition_55",
+            "description": "Ge\u00e7i\u015f efekti 55 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=3:offset=55\""
+        },
+        {
+            "name": "Transition_56",
+            "description": "Ge\u00e7i\u015f efekti 56 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=3:offset=56\""
+        },
+        {
+            "name": "Transition_57",
+            "description": "Ge\u00e7i\u015f efekti 57 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=2:offset=57\""
+        },
+        {
+            "name": "Transition_58",
+            "description": "Ge\u00e7i\u015f efekti 58 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=1:offset=58\""
+        },
+        {
+            "name": "Transition_59",
+            "description": "Ge\u00e7i\u015f efekti 59 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=1:offset=59\""
+        },
+        {
+            "name": "Transition_60",
+            "description": "Ge\u00e7i\u015f efekti 60 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=60\""
+        },
+        {
+            "name": "Transition_61",
+            "description": "Ge\u00e7i\u015f efekti 61 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=2:offset=61\""
+        },
+        {
+            "name": "Transition_62",
+            "description": "Ge\u00e7i\u015f efekti 62 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=62\""
+        },
+        {
+            "name": "Transition_63",
+            "description": "Ge\u00e7i\u015f efekti 63 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=2:offset=63\""
+        },
+        {
+            "name": "Transition_64",
+            "description": "Ge\u00e7i\u015f efekti 64 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=1:offset=64\""
+        },
+        {
+            "name": "Transition_65",
+            "description": "Ge\u00e7i\u015f efekti 65 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=3:offset=65\""
+        },
+        {
+            "name": "Transition_66",
+            "description": "Ge\u00e7i\u015f efekti 66 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=3:offset=66\""
+        },
+        {
+            "name": "Transition_67",
+            "description": "Ge\u00e7i\u015f efekti 67 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=3:offset=67\""
+        },
+        {
+            "name": "Transition_68",
+            "description": "Ge\u00e7i\u015f efekti 68 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=2:offset=68\""
+        },
+        {
+            "name": "Transition_69",
+            "description": "Ge\u00e7i\u015f efekti 69 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=1:offset=69\""
+        },
+        {
+            "name": "Transition_70",
+            "description": "Ge\u00e7i\u015f efekti 70 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=70\""
+        },
+        {
+            "name": "Transition_71",
+            "description": "Ge\u00e7i\u015f efekti 71 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=2:offset=71\""
+        },
+        {
+            "name": "Transition_72",
+            "description": "Ge\u00e7i\u015f efekti 72 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=3:offset=72\""
+        },
+        {
+            "name": "Transition_73",
+            "description": "Ge\u00e7i\u015f efekti 73 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=73\""
+        },
+        {
+            "name": "Transition_74",
+            "description": "Ge\u00e7i\u015f efekti 74 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=2:offset=74\""
+        },
+        {
+            "name": "Transition_75",
+            "description": "Ge\u00e7i\u015f efekti 75 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=3:offset=75\""
+        },
+        {
+            "name": "Transition_76",
+            "description": "Ge\u00e7i\u015f efekti 76 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=2:offset=76\""
+        },
+        {
+            "name": "Transition_77",
+            "description": "Ge\u00e7i\u015f efekti 77 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=1:offset=77\""
+        },
+        {
+            "name": "Transition_78",
+            "description": "Ge\u00e7i\u015f efekti 78 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=1:offset=78\""
+        },
+        {
+            "name": "Transition_79",
+            "description": "Ge\u00e7i\u015f efekti 79 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=3:offset=79\""
+        },
+        {
+            "name": "Transition_80",
+            "description": "Ge\u00e7i\u015f efekti 80 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=1:offset=80\""
+        },
+        {
+            "name": "Transition_81",
+            "description": "Ge\u00e7i\u015f efekti 81 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=3:offset=81\""
+        },
+        {
+            "name": "Transition_82",
+            "description": "Ge\u00e7i\u015f efekti 82 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=1:offset=82\""
+        },
+        {
+            "name": "Transition_83",
+            "description": "Ge\u00e7i\u015f efekti 83 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=2:offset=83\""
+        },
+        {
+            "name": "Transition_84",
+            "description": "Ge\u00e7i\u015f efekti 84 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=3:offset=84\""
+        },
+        {
+            "name": "Transition_85",
+            "description": "Ge\u00e7i\u015f efekti 85 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=85\""
+        },
+        {
+            "name": "Transition_86",
+            "description": "Ge\u00e7i\u015f efekti 86 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=2:offset=86\""
+        },
+        {
+            "name": "Transition_87",
+            "description": "Ge\u00e7i\u015f efekti 87 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=87\""
+        },
+        {
+            "name": "Transition_88",
+            "description": "Ge\u00e7i\u015f efekti 88 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=3:offset=88\""
+        },
+        {
+            "name": "Transition_89",
+            "description": "Ge\u00e7i\u015f efekti 89 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=3:offset=89\""
+        },
+        {
+            "name": "Transition_90",
+            "description": "Ge\u00e7i\u015f efekti 90 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=2:offset=90\""
+        },
+        {
+            "name": "Transition_91",
+            "description": "Ge\u00e7i\u015f efekti 91 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=2:offset=91\""
+        },
+        {
+            "name": "Transition_92",
+            "description": "Ge\u00e7i\u015f efekti 92 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=1:offset=92\""
+        },
+        {
+            "name": "Transition_93",
+            "description": "Ge\u00e7i\u015f efekti 93 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=93\""
+        },
+        {
+            "name": "Transition_94",
+            "description": "Ge\u00e7i\u015f efekti 94 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=2:offset=94\""
+        },
+        {
+            "name": "Transition_95",
+            "description": "Ge\u00e7i\u015f efekti 95 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=2:offset=95\""
+        },
+        {
+            "name": "Transition_96",
+            "description": "Ge\u00e7i\u015f efekti 96 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=3:offset=96\""
+        },
+        {
+            "name": "Transition_97",
+            "description": "Ge\u00e7i\u015f efekti 97 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=3:offset=97\""
+        },
+        {
+            "name": "Transition_98",
+            "description": "Ge\u00e7i\u015f efekti 98 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=2:offset=98\""
+        },
+        {
+            "name": "Transition_99",
+            "description": "Ge\u00e7i\u015f efekti 99 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=1:offset=99\""
+        },
+        {
+            "name": "Transition_100",
+            "description": "Ge\u00e7i\u015f efekti 100 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=100\""
+        },
+        {
+            "name": "Transition_101",
+            "description": "Ge\u00e7i\u015f efekti 101 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=3:offset=101\""
+        },
+        {
+            "name": "Transition_102",
+            "description": "Ge\u00e7i\u015f efekti 102 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=102\""
+        },
+        {
+            "name": "Transition_103",
+            "description": "Ge\u00e7i\u015f efekti 103 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=2:offset=103\""
+        },
+        {
+            "name": "Transition_104",
+            "description": "Ge\u00e7i\u015f efekti 104 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=3:offset=104\""
+        },
+        {
+            "name": "Transition_105",
+            "description": "Ge\u00e7i\u015f efekti 105 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=3:offset=105\""
+        },
+        {
+            "name": "Transition_106",
+            "description": "Ge\u00e7i\u015f efekti 106 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=106\""
+        },
+        {
+            "name": "Transition_107",
+            "description": "Ge\u00e7i\u015f efekti 107 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=3:offset=107\""
+        },
+        {
+            "name": "Transition_108",
+            "description": "Ge\u00e7i\u015f efekti 108 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=108\""
+        },
+        {
+            "name": "Transition_109",
+            "description": "Ge\u00e7i\u015f efekti 109 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=2:offset=109\""
+        },
+        {
+            "name": "Transition_110",
+            "description": "Ge\u00e7i\u015f efekti 110 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=1:offset=110\""
+        },
+        {
+            "name": "Transition_111",
+            "description": "Ge\u00e7i\u015f efekti 111 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=2:offset=111\""
+        },
+        {
+            "name": "Transition_112",
+            "description": "Ge\u00e7i\u015f efekti 112 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=112\""
+        },
+        {
+            "name": "Transition_113",
+            "description": "Ge\u00e7i\u015f efekti 113 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=2:offset=113\""
+        },
+        {
+            "name": "Transition_114",
+            "description": "Ge\u00e7i\u015f efekti 114 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=2:offset=114\""
+        },
+        {
+            "name": "Transition_115",
+            "description": "Ge\u00e7i\u015f efekti 115 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=3:offset=115\""
+        },
+        {
+            "name": "Transition_116",
+            "description": "Ge\u00e7i\u015f efekti 116 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=116\""
+        },
+        {
+            "name": "Transition_117",
+            "description": "Ge\u00e7i\u015f efekti 117 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=3:offset=117\""
+        },
+        {
+            "name": "Transition_118",
+            "description": "Ge\u00e7i\u015f efekti 118 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=2:offset=118\""
+        },
+        {
+            "name": "Transition_119",
+            "description": "Ge\u00e7i\u015f efekti 119 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=2:offset=119\""
+        },
+        {
+            "name": "Transition_120",
+            "description": "Ge\u00e7i\u015f efekti 120 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=2:offset=120\""
+        },
+        {
+            "name": "Transition_121",
+            "description": "Ge\u00e7i\u015f efekti 121 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=121\""
+        },
+        {
+            "name": "Transition_122",
+            "description": "Ge\u00e7i\u015f efekti 122 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=3:offset=122\""
+        },
+        {
+            "name": "Transition_123",
+            "description": "Ge\u00e7i\u015f efekti 123 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=3:offset=123\""
+        },
+        {
+            "name": "Transition_124",
+            "description": "Ge\u00e7i\u015f efekti 124 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=2:offset=124\""
+        },
+        {
+            "name": "Transition_125",
+            "description": "Ge\u00e7i\u015f efekti 125 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=3:offset=125\""
+        },
+        {
+            "name": "Transition_126",
+            "description": "Ge\u00e7i\u015f efekti 126 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=126\""
+        },
+        {
+            "name": "Transition_127",
+            "description": "Ge\u00e7i\u015f efekti 127 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=2:offset=127\""
+        },
+        {
+            "name": "Transition_128",
+            "description": "Ge\u00e7i\u015f efekti 128 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=2:offset=128\""
+        },
+        {
+            "name": "Transition_129",
+            "description": "Ge\u00e7i\u015f efekti 129 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=3:offset=129\""
+        },
+        {
+            "name": "Transition_130",
+            "description": "Ge\u00e7i\u015f efekti 130 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=1:offset=130\""
+        },
+        {
+            "name": "Transition_131",
+            "description": "Ge\u00e7i\u015f efekti 131 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=3:offset=131\""
+        },
+        {
+            "name": "Transition_132",
+            "description": "Ge\u00e7i\u015f efekti 132 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=132\""
+        },
+        {
+            "name": "Transition_133",
+            "description": "Ge\u00e7i\u015f efekti 133 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=133\""
+        },
+        {
+            "name": "Transition_134",
+            "description": "Ge\u00e7i\u015f efekti 134 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=134\""
+        },
+        {
+            "name": "Transition_135",
+            "description": "Ge\u00e7i\u015f efekti 135 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=1:offset=135\""
+        },
+        {
+            "name": "Transition_136",
+            "description": "Ge\u00e7i\u015f efekti 136 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=2:offset=136\""
+        },
+        {
+            "name": "Transition_137",
+            "description": "Ge\u00e7i\u015f efekti 137 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=2:offset=137\""
+        },
+        {
+            "name": "Transition_138",
+            "description": "Ge\u00e7i\u015f efekti 138 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=2:offset=138\""
+        },
+        {
+            "name": "Transition_139",
+            "description": "Ge\u00e7i\u015f efekti 139 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=139\""
+        },
+        {
+            "name": "Transition_140",
+            "description": "Ge\u00e7i\u015f efekti 140 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=3:offset=140\""
+        },
+        {
+            "name": "Transition_141",
+            "description": "Ge\u00e7i\u015f efekti 141 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=141\""
+        },
+        {
+            "name": "Transition_142",
+            "description": "Ge\u00e7i\u015f efekti 142 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=3:offset=142\""
+        },
+        {
+            "name": "Transition_143",
+            "description": "Ge\u00e7i\u015f efekti 143 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=2:offset=143\""
+        },
+        {
+            "name": "Transition_144",
+            "description": "Ge\u00e7i\u015f efekti 144 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=144\""
+        },
+        {
+            "name": "Transition_145",
+            "description": "Ge\u00e7i\u015f efekti 145 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=2:offset=145\""
+        },
+        {
+            "name": "Transition_146",
+            "description": "Ge\u00e7i\u015f efekti 146 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=2:offset=146\""
+        },
+        {
+            "name": "Transition_147",
+            "description": "Ge\u00e7i\u015f efekti 147 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=147\""
+        },
+        {
+            "name": "Transition_148",
+            "description": "Ge\u00e7i\u015f efekti 148 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=2:offset=148\""
+        },
+        {
+            "name": "Transition_149",
+            "description": "Ge\u00e7i\u015f efekti 149 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=1:offset=149\""
+        },
+        {
+            "name": "Transition_150",
+            "description": "Ge\u00e7i\u015f efekti 150 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=150\""
+        },
+        {
+            "name": "Transition_151",
+            "description": "Ge\u00e7i\u015f efekti 151 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=1:offset=151\""
+        },
+        {
+            "name": "Transition_152",
+            "description": "Ge\u00e7i\u015f efekti 152 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=152\""
+        },
+        {
+            "name": "Transition_153",
+            "description": "Ge\u00e7i\u015f efekti 153 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=153\""
+        },
+        {
+            "name": "Transition_154",
+            "description": "Ge\u00e7i\u015f efekti 154 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=1:offset=154\""
+        },
+        {
+            "name": "Transition_155",
+            "description": "Ge\u00e7i\u015f efekti 155 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=155\""
+        },
+        {
+            "name": "Transition_156",
+            "description": "Ge\u00e7i\u015f efekti 156 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=156\""
+        },
+        {
+            "name": "Transition_157",
+            "description": "Ge\u00e7i\u015f efekti 157 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=2:offset=157\""
+        },
+        {
+            "name": "Transition_158",
+            "description": "Ge\u00e7i\u015f efekti 158 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=2:offset=158\""
+        },
+        {
+            "name": "Transition_159",
+            "description": "Ge\u00e7i\u015f efekti 159 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=2:offset=159\""
+        },
+        {
+            "name": "Transition_160",
+            "description": "Ge\u00e7i\u015f efekti 160 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=160\""
+        },
+        {
+            "name": "Transition_161",
+            "description": "Ge\u00e7i\u015f efekti 161 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=161\""
+        },
+        {
+            "name": "Transition_162",
+            "description": "Ge\u00e7i\u015f efekti 162 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=3:offset=162\""
+        },
+        {
+            "name": "Transition_163",
+            "description": "Ge\u00e7i\u015f efekti 163 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=3:offset=163\""
+        },
+        {
+            "name": "Transition_164",
+            "description": "Ge\u00e7i\u015f efekti 164 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=1:offset=164\""
+        },
+        {
+            "name": "Transition_165",
+            "description": "Ge\u00e7i\u015f efekti 165 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=1:offset=165\""
+        },
+        {
+            "name": "Transition_166",
+            "description": "Ge\u00e7i\u015f efekti 166 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=2:offset=166\""
+        },
+        {
+            "name": "Transition_167",
+            "description": "Ge\u00e7i\u015f efekti 167 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=167\""
+        },
+        {
+            "name": "Transition_168",
+            "description": "Ge\u00e7i\u015f efekti 168 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=3:offset=168\""
+        },
+        {
+            "name": "Transition_169",
+            "description": "Ge\u00e7i\u015f efekti 169 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=169\""
+        },
+        {
+            "name": "Transition_170",
+            "description": "Ge\u00e7i\u015f efekti 170 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=170\""
+        },
+        {
+            "name": "Transition_171",
+            "description": "Ge\u00e7i\u015f efekti 171 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=2:offset=171\""
+        },
+        {
+            "name": "Transition_172",
+            "description": "Ge\u00e7i\u015f efekti 172 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=172\""
+        },
+        {
+            "name": "Transition_173",
+            "description": "Ge\u00e7i\u015f efekti 173 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=1:offset=173\""
+        },
+        {
+            "name": "Transition_174",
+            "description": "Ge\u00e7i\u015f efekti 174 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=3:offset=174\""
+        },
+        {
+            "name": "Transition_175",
+            "description": "Ge\u00e7i\u015f efekti 175 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=3:offset=175\""
+        },
+        {
+            "name": "Transition_176",
+            "description": "Ge\u00e7i\u015f efekti 176 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=176\""
+        },
+        {
+            "name": "Transition_177",
+            "description": "Ge\u00e7i\u015f efekti 177 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=177\""
+        },
+        {
+            "name": "Transition_178",
+            "description": "Ge\u00e7i\u015f efekti 178 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=2:offset=178\""
+        },
+        {
+            "name": "Transition_179",
+            "description": "Ge\u00e7i\u015f efekti 179 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=1:offset=179\""
+        },
+        {
+            "name": "Transition_180",
+            "description": "Ge\u00e7i\u015f efekti 180 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=1:offset=180\""
+        },
+        {
+            "name": "Transition_181",
+            "description": "Ge\u00e7i\u015f efekti 181 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=3:offset=181\""
+        },
+        {
+            "name": "Transition_182",
+            "description": "Ge\u00e7i\u015f efekti 182 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=1:offset=182\""
+        },
+        {
+            "name": "Transition_183",
+            "description": "Ge\u00e7i\u015f efekti 183 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=2:offset=183\""
+        },
+        {
+            "name": "Transition_184",
+            "description": "Ge\u00e7i\u015f efekti 184 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=2:offset=184\""
+        },
+        {
+            "name": "Transition_185",
+            "description": "Ge\u00e7i\u015f efekti 185 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=3:offset=185\""
+        },
+        {
+            "name": "Transition_186",
+            "description": "Ge\u00e7i\u015f efekti 186 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=2:offset=186\""
+        },
+        {
+            "name": "Transition_187",
+            "description": "Ge\u00e7i\u015f efekti 187 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=2:offset=187\""
+        },
+        {
+            "name": "Transition_188",
+            "description": "Ge\u00e7i\u015f efekti 188 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=2:offset=188\""
+        },
+        {
+            "name": "Transition_189",
+            "description": "Ge\u00e7i\u015f efekti 189 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=1:offset=189\""
+        },
+        {
+            "name": "Transition_190",
+            "description": "Ge\u00e7i\u015f efekti 190 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=3:offset=190\""
+        },
+        {
+            "name": "Transition_191",
+            "description": "Ge\u00e7i\u015f efekti 191 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=191\""
+        },
+        {
+            "name": "Transition_192",
+            "description": "Ge\u00e7i\u015f efekti 192 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=fade:duration=1:offset=192\""
+        },
+        {
+            "name": "Transition_193",
+            "description": "Ge\u00e7i\u015f efekti 193 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=zoom:duration=1:offset=193\""
+        },
+        {
+            "name": "Transition_194",
+            "description": "Ge\u00e7i\u015f efekti 194 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=3:offset=194\""
+        },
+        {
+            "name": "Transition_195",
+            "description": "Ge\u00e7i\u015f efekti 195 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=195\""
+        },
+        {
+            "name": "Transition_196",
+            "description": "Ge\u00e7i\u015f efekti 196 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=wipe:duration=1:offset=196\""
+        },
+        {
+            "name": "Transition_197",
+            "description": "Ge\u00e7i\u015f efekti 197 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=2:offset=197\""
+        },
+        {
+            "name": "Transition_198",
+            "description": "Ge\u00e7i\u015f efekti 198 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=1:offset=198\""
+        },
+        {
+            "name": "Transition_199",
+            "description": "Ge\u00e7i\u015f efekti 199 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=circle:duration=3:offset=199\""
+        },
+        {
+            "name": "Transition_200",
+            "description": "Ge\u00e7i\u015f efekti 200 a\u00e7\u0131klamas\u0131",
+            "command": "-filter_complex \"[0][1]xfade=transition=slide:duration=2:offset=200\""
+        }
+    ]
+}

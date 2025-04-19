@@ -1,0 +1,27 @@
+[versions]
+kotlin = "1.9.10"
+compose = "1.5.0"
+agp = "8.1.0"
+ffmpeg = "5.1"
+
+[plugins]
+android-application = { id = "com.android.application", version = "agp" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+
+[libraries]
+androidx-core-ktx = "androidx.core:core-ktx:1.12.0"
+androidx-lifecycle-runtime-ktx = "androidx.lifecycle:lifecycle-runtime-ktx:2.6.2"
+androidx-activity-compose = "androidx.activity:activity-compose:1.7.2"
+androidx-compose-ui = "androidx.compose.ui:ui:1.5.0"
+androidx-compose-ui-graphics = "androidx.compose.ui:ui-graphics:1.5.0"
+androidx-compose-ui-tooling-preview = "androidx.compose.ui:ui-tooling-preview:1.5.0"
+androidx-material3 = "androidx.compose.material3:material3:1.2.0"
+
+junit = "junit:junit:4.13.2"
+androidx-junit = "androidx.test.ext:junit:1.1.5"
+androidx-espresso-core = "androidx.test.espresso:espresso-core:3.5.1"
+androidx-compose-ui-test-junit4 = "androidx.compose.ui:ui-test-junit4:1.5.0"
+androidx-compose-ui-tooling = "androidx.compose.ui:ui-tooling:1.5.0"
+androidx-compose-ui-test-manifest = "androidx.compose.ui:ui-test-manifest:1.5.0"
+
+ffmpeg = { module = "com.arthenica:ffmpeg-kit-full", version.ref = "ffmpeg" }

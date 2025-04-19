@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/selected_audio_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No audio selected"
+        android:padding="8dp"
+        android:textSize="16sp"/>
+
+    <Button
+        android:id="@+id/select_audio_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Audio"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        android:id="@+id/add_audio_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add to Video"
+        android:layout_marginTop="16dp"/>
+</LinearLayout>

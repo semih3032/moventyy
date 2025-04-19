@@ -1,0 +1,1504 @@
+{
+    "effects": [
+        {
+            "name": "Video_Effect_1",
+            "description": "Video efekti 1 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=0.5145666538994057\""
+        },
+        {
+            "name": "Video_Effect_2",
+            "description": "Video efekti 2 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.2749039963419637\""
+        },
+        {
+            "name": "Video_Effect_3",
+            "description": "Video efekti 3 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.606069360261191\""
+        },
+        {
+            "name": "Video_Effect_4",
+            "description": "Video efekti 4 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=0.6006756179704874\""
+        },
+        {
+            "name": "Video_Effect_5",
+            "description": "Video efekti 5 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.4890611096027362\""
+        },
+        {
+            "name": "Video_Effect_6",
+            "description": "Video efekti 6 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.9570187693789531\""
+        },
+        {
+            "name": "Video_Effect_7",
+            "description": "Video efekti 7 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.1387267172127258\""
+        },
+        {
+            "name": "Video_Effect_8",
+            "description": "Video efekti 8 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.1679510638639083\""
+        },
+        {
+            "name": "Video_Effect_9",
+            "description": "Video efekti 9 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=1.2630890601264282\""
+        },
+        {
+            "name": "Video_Effect_10",
+            "description": "Video efekti 10 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=0.6019347765899492\""
+        },
+        {
+            "name": "Video_Effect_11",
+            "description": "Video efekti 11 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.9789261122659592\""
+        },
+        {
+            "name": "Video_Effect_12",
+            "description": "Video efekti 12 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.9812930841772963\""
+        },
+        {
+            "name": "Video_Effect_13",
+            "description": "Video efekti 13 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=1.1514219294673964\""
+        },
+        {
+            "name": "Video_Effect_14",
+            "description": "Video efekti 14 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=1.1103547286743738\""
+        },
+        {
+            "name": "Video_Effect_15",
+            "description": "Video efekti 15 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.3186209861897304\""
+        },
+        {
+            "name": "Video_Effect_16",
+            "description": "Video efekti 16 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.4322157590092628\""
+        },
+        {
+            "name": "Video_Effect_17",
+            "description": "Video efekti 17 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=0.9715438917744903\""
+        },
+        {
+            "name": "Video_Effect_18",
+            "description": "Video efekti 18 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.0069014252830564\""
+        },
+        {
+            "name": "Video_Effect_19",
+            "description": "Video efekti 19 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.1931435038997775\""
+        },
+        {
+            "name": "Video_Effect_20",
+            "description": "Video efekti 20 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=1.0458200129473434\""
+        },
+        {
+            "name": "Video_Effect_21",
+            "description": "Video efekti 21 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.6816363634760916\""
+        },
+        {
+            "name": "Video_Effect_22",
+            "description": "Video efekti 22 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.4589343060672562\""
+        },
+        {
+            "name": "Video_Effect_23",
+            "description": "Video efekti 23 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.4934702852841653\""
+        },
+        {
+            "name": "Video_Effect_24",
+            "description": "Video efekti 24 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.8215829547109031\""
+        },
+        {
+            "name": "Video_Effect_25",
+            "description": "Video efekti 25 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=0.6192100459469638\""
+        },
+        {
+            "name": "Video_Effect_26",
+            "description": "Video efekti 26 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.0583568767216822\""
+        },
+        {
+            "name": "Video_Effect_27",
+            "description": "Video efekti 27 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.3981848069823886\""
+        },
+        {
+            "name": "Video_Effect_28",
+            "description": "Video efekti 28 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=0.6298908070481224\""
+        },
+        {
+            "name": "Video_Effect_29",
+            "description": "Video efekti 29 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.5760146358115875\""
+        },
+        {
+            "name": "Video_Effect_30",
+            "description": "Video efekti 30 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.5375408509318083\""
+        },
+        {
+            "name": "Video_Effect_31",
+            "description": "Video efekti 31 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.5746836533242978\""
+        },
+        {
+            "name": "Video_Effect_32",
+            "description": "Video efekti 32 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.8855510069059259\""
+        },
+        {
+            "name": "Video_Effect_33",
+            "description": "Video efekti 33 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=1.0525722939914566\""
+        },
+        {
+            "name": "Video_Effect_34",
+            "description": "Video efekti 34 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.9360376523865365\""
+        },
+        {
+            "name": "Video_Effect_35",
+            "description": "Video efekti 35 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.5269597853423982\""
+        },
+        {
+            "name": "Video_Effect_36",
+            "description": "Video efekti 36 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=1.3463879497796958\""
+        },
+        {
+            "name": "Video_Effect_37",
+            "description": "Video efekti 37 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.7265897863923979\""
+        },
+        {
+            "name": "Video_Effect_38",
+            "description": "Video efekti 38 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=0.5876617574159566\""
+        },
+        {
+            "name": "Video_Effect_39",
+            "description": "Video efekti 39 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=1.442496619396644\""
+        },
+        {
+            "name": "Video_Effect_40",
+            "description": "Video efekti 40 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.180450371658378\""
+        },
+        {
+            "name": "Video_Effect_41",
+            "description": "Video efekti 41 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.6438005047734203\""
+        },
+        {
+            "name": "Video_Effect_42",
+            "description": "Video efekti 42 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.252703679805597\""
+        },
+        {
+            "name": "Video_Effect_43",
+            "description": "Video efekti 43 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.016249060170397\""
+        },
+        {
+            "name": "Video_Effect_44",
+            "description": "Video efekti 44 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.2236690808472528\""
+        },
+        {
+            "name": "Video_Effect_45",
+            "description": "Video efekti 45 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=0.5401654071096362\""
+        },
+        {
+            "name": "Video_Effect_46",
+            "description": "Video efekti 46 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=0.8104312472354577\""
+        },
+        {
+            "name": "Video_Effect_47",
+            "description": "Video efekti 47 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.6590430726193139\""
+        },
+        {
+            "name": "Video_Effect_48",
+            "description": "Video efekti 48 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.6633216312424756\""
+        },
+        {
+            "name": "Video_Effect_49",
+            "description": "Video efekti 49 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=1.3728224063034005\""
+        },
+        {
+            "name": "Video_Effect_50",
+            "description": "Video efekti 50 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=0.743336461712809\""
+        },
+        {
+            "name": "Video_Effect_51",
+            "description": "Video efekti 51 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.0463420818101652\""
+        },
+        {
+            "name": "Video_Effect_52",
+            "description": "Video efekti 52 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.8728412933310954\""
+        },
+        {
+            "name": "Video_Effect_53",
+            "description": "Video efekti 53 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.9357007338795785\""
+        },
+        {
+            "name": "Video_Effect_54",
+            "description": "Video efekti 54 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.2813065231732415\""
+        },
+        {
+            "name": "Video_Effect_55",
+            "description": "Video efekti 55 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.919611927353232\""
+        },
+        {
+            "name": "Video_Effect_56",
+            "description": "Video efekti 56 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=1.28358993361581\""
+        },
+        {
+            "name": "Video_Effect_57",
+            "description": "Video efekti 57 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.4125609379458477\""
+        },
+        {
+            "name": "Video_Effect_58",
+            "description": "Video efekti 58 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=0.7615875091964128\""
+        },
+        {
+            "name": "Video_Effect_59",
+            "description": "Video efekti 59 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.4244325300115586\""
+        },
+        {
+            "name": "Video_Effect_60",
+            "description": "Video efekti 60 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=1.196247884086983\""
+        },
+        {
+            "name": "Video_Effect_61",
+            "description": "Video efekti 61 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.2380121612922326\""
+        },
+        {
+            "name": "Video_Effect_62",
+            "description": "Video efekti 62 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=1.0915433751477386\""
+        },
+        {
+            "name": "Video_Effect_63",
+            "description": "Video efekti 63 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.1298745670481165\""
+        },
+        {
+            "name": "Video_Effect_64",
+            "description": "Video efekti 64 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=0.5450559731739175\""
+        },
+        {
+            "name": "Video_Effect_65",
+            "description": "Video efekti 65 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=0.5578320108224138\""
+        },
+        {
+            "name": "Video_Effect_66",
+            "description": "Video efekti 66 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.4942621805817824\""
+        },
+        {
+            "name": "Video_Effect_67",
+            "description": "Video efekti 67 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.0497869177386485\""
+        },
+        {
+            "name": "Video_Effect_68",
+            "description": "Video efekti 68 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.0953345237578342\""
+        },
+        {
+            "name": "Video_Effect_69",
+            "description": "Video efekti 69 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.7921445718794201\""
+        },
+        {
+            "name": "Video_Effect_70",
+            "description": "Video efekti 70 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.5037574557752555\""
+        },
+        {
+            "name": "Video_Effect_71",
+            "description": "Video efekti 71 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.8083508489178386\""
+        },
+        {
+            "name": "Video_Effect_72",
+            "description": "Video efekti 72 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=1.1273214532286397\""
+        },
+        {
+            "name": "Video_Effect_73",
+            "description": "Video efekti 73 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=1.4015361426618316\""
+        },
+        {
+            "name": "Video_Effect_74",
+            "description": "Video efekti 74 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=0.8104595866887444\""
+        },
+        {
+            "name": "Video_Effect_75",
+            "description": "Video efekti 75 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.6796412450863182\""
+        },
+        {
+            "name": "Video_Effect_76",
+            "description": "Video efekti 76 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.1759511727042709\""
+        },
+        {
+            "name": "Video_Effect_77",
+            "description": "Video efekti 77 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.7661892431659285\""
+        },
+        {
+            "name": "Video_Effect_78",
+            "description": "Video efekti 78 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.4029680887164275\""
+        },
+        {
+            "name": "Video_Effect_79",
+            "description": "Video efekti 79 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.4756833763598531\""
+        },
+        {
+            "name": "Video_Effect_80",
+            "description": "Video efekti 80 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=0.9111430221439085\""
+        },
+        {
+            "name": "Video_Effect_81",
+            "description": "Video efekti 81 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.0069223767279443\""
+        },
+        {
+            "name": "Video_Effect_82",
+            "description": "Video efekti 82 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.6067914577379498\""
+        },
+        {
+            "name": "Video_Effect_83",
+            "description": "Video efekti 83 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.7282608636637173\""
+        },
+        {
+            "name": "Video_Effect_84",
+            "description": "Video efekti 84 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.9445048321552392\""
+        },
+        {
+            "name": "Video_Effect_85",
+            "description": "Video efekti 85 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.9791930000970175\""
+        },
+        {
+            "name": "Video_Effect_86",
+            "description": "Video efekti 86 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.0084312346517876\""
+        },
+        {
+            "name": "Video_Effect_87",
+            "description": "Video efekti 87 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.7111407894008475\""
+        },
+        {
+            "name": "Video_Effect_88",
+            "description": "Video efekti 88 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.1544358706540345\""
+        },
+        {
+            "name": "Video_Effect_89",
+            "description": "Video efekti 89 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=0.9410042527569774\""
+        },
+        {
+            "name": "Video_Effect_90",
+            "description": "Video efekti 90 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.3162151375261626\""
+        },
+        {
+            "name": "Video_Effect_91",
+            "description": "Video efekti 91 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=1.4329627068106934\""
+        },
+        {
+            "name": "Video_Effect_92",
+            "description": "Video efekti 92 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.520833751262044\""
+        },
+        {
+            "name": "Video_Effect_93",
+            "description": "Video efekti 93 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=1.1504518295742945\""
+        },
+        {
+            "name": "Video_Effect_94",
+            "description": "Video efekti 94 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.7148868858419196\""
+        },
+        {
+            "name": "Video_Effect_95",
+            "description": "Video efekti 95 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.1601978655309808\""
+        },
+        {
+            "name": "Video_Effect_96",
+            "description": "Video efekti 96 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=0.8659324815803529\""
+        },
+        {
+            "name": "Video_Effect_97",
+            "description": "Video efekti 97 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=1.0261220621532914\""
+        },
+        {
+            "name": "Video_Effect_98",
+            "description": "Video efekti 98 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.0841877271920932\""
+        },
+        {
+            "name": "Video_Effect_99",
+            "description": "Video efekti 99 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.1209454179707699\""
+        },
+        {
+            "name": "Video_Effect_100",
+            "description": "Video efekti 100 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=0.7502430766588863\""
+        },
+        {
+            "name": "Video_Effect_101",
+            "description": "Video efekti 101 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.7245842540562062\""
+        },
+        {
+            "name": "Video_Effect_102",
+            "description": "Video efekti 102 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.0974767615354981\""
+        },
+        {
+            "name": "Video_Effect_103",
+            "description": "Video efekti 103 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=0.6948540643355705\""
+        },
+        {
+            "name": "Video_Effect_104",
+            "description": "Video efekti 104 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=0.5146639799632537\""
+        },
+        {
+            "name": "Video_Effect_105",
+            "description": "Video efekti 105 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.2521794786437528\""
+        },
+        {
+            "name": "Video_Effect_106",
+            "description": "Video efekti 106 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.2645883700108085\""
+        },
+        {
+            "name": "Video_Effect_107",
+            "description": "Video efekti 107 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=0.6194084776178304\""
+        },
+        {
+            "name": "Video_Effect_108",
+            "description": "Video efekti 108 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.027035018438628\""
+        },
+        {
+            "name": "Video_Effect_109",
+            "description": "Video efekti 109 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=1.3710006586263792\""
+        },
+        {
+            "name": "Video_Effect_110",
+            "description": "Video efekti 110 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.9656042682211067\""
+        },
+        {
+            "name": "Video_Effect_111",
+            "description": "Video efekti 111 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.5546363300646966\""
+        },
+        {
+            "name": "Video_Effect_112",
+            "description": "Video efekti 112 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.4307561216520668\""
+        },
+        {
+            "name": "Video_Effect_113",
+            "description": "Video efekti 113 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.7708792729672457\""
+        },
+        {
+            "name": "Video_Effect_114",
+            "description": "Video efekti 114 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=1.3350960176974265\""
+        },
+        {
+            "name": "Video_Effect_115",
+            "description": "Video efekti 115 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=1.4926228058240882\""
+        },
+        {
+            "name": "Video_Effect_116",
+            "description": "Video efekti 116 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.506834791280693\""
+        },
+        {
+            "name": "Video_Effect_117",
+            "description": "Video efekti 117 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.014545515941422\""
+        },
+        {
+            "name": "Video_Effect_118",
+            "description": "Video efekti 118 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.475506444052906\""
+        },
+        {
+            "name": "Video_Effect_119",
+            "description": "Video efekti 119 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.4133911711085072\""
+        },
+        {
+            "name": "Video_Effect_120",
+            "description": "Video efekti 120 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.1257539423379646\""
+        },
+        {
+            "name": "Video_Effect_121",
+            "description": "Video efekti 121 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=0.8282025783811859\""
+        },
+        {
+            "name": "Video_Effect_122",
+            "description": "Video efekti 122 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.9017588805691885\""
+        },
+        {
+            "name": "Video_Effect_123",
+            "description": "Video efekti 123 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.6550356461572446\""
+        },
+        {
+            "name": "Video_Effect_124",
+            "description": "Video efekti 124 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.074186148908806\""
+        },
+        {
+            "name": "Video_Effect_125",
+            "description": "Video efekti 125 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.313255031456511\""
+        },
+        {
+            "name": "Video_Effect_126",
+            "description": "Video efekti 126 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.9661412032717679\""
+        },
+        {
+            "name": "Video_Effect_127",
+            "description": "Video efekti 127 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=1.0734828020487757\""
+        },
+        {
+            "name": "Video_Effect_128",
+            "description": "Video efekti 128 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.1369865666166308\""
+        },
+        {
+            "name": "Video_Effect_129",
+            "description": "Video efekti 129 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.150688677025725\""
+        },
+        {
+            "name": "Video_Effect_130",
+            "description": "Video efekti 130 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=1.0394399665532266\""
+        },
+        {
+            "name": "Video_Effect_131",
+            "description": "Video efekti 131 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.4283600752269745\""
+        },
+        {
+            "name": "Video_Effect_132",
+            "description": "Video efekti 132 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.3359114960806893\""
+        },
+        {
+            "name": "Video_Effect_133",
+            "description": "Video efekti 133 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.590321216551333\""
+        },
+        {
+            "name": "Video_Effect_134",
+            "description": "Video efekti 134 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=0.7525424574119982\""
+        },
+        {
+            "name": "Video_Effect_135",
+            "description": "Video efekti 135 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.2582738600589543\""
+        },
+        {
+            "name": "Video_Effect_136",
+            "description": "Video efekti 136 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.6513005316057048\""
+        },
+        {
+            "name": "Video_Effect_137",
+            "description": "Video efekti 137 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.5910393141083997\""
+        },
+        {
+            "name": "Video_Effect_138",
+            "description": "Video efekti 138 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=0.5557527911713879\""
+        },
+        {
+            "name": "Video_Effect_139",
+            "description": "Video efekti 139 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.0259280100335357\""
+        },
+        {
+            "name": "Video_Effect_140",
+            "description": "Video efekti 140 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=1.030484389017746\""
+        },
+        {
+            "name": "Video_Effect_141",
+            "description": "Video efekti 141 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.8265666035549228\""
+        },
+        {
+            "name": "Video_Effect_142",
+            "description": "Video efekti 142 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=0.5757027057312054\""
+        },
+        {
+            "name": "Video_Effect_143",
+            "description": "Video efekti 143 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.616421262146868\""
+        },
+        {
+            "name": "Video_Effect_144",
+            "description": "Video efekti 144 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.9281393832321985\""
+        },
+        {
+            "name": "Video_Effect_145",
+            "description": "Video efekti 145 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.4042466923200414\""
+        },
+        {
+            "name": "Video_Effect_146",
+            "description": "Video efekti 146 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.5011341532181722\""
+        },
+        {
+            "name": "Video_Effect_147",
+            "description": "Video efekti 147 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.20436517255971\""
+        },
+        {
+            "name": "Video_Effect_148",
+            "description": "Video efekti 148 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.6315816878154725\""
+        },
+        {
+            "name": "Video_Effect_149",
+            "description": "Video efekti 149 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.4444670651290075\""
+        },
+        {
+            "name": "Video_Effect_150",
+            "description": "Video efekti 150 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.0558498190061747\""
+        },
+        {
+            "name": "Video_Effect_151",
+            "description": "Video efekti 151 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.9258741860012596\""
+        },
+        {
+            "name": "Video_Effect_152",
+            "description": "Video efekti 152 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.1228401974203581\""
+        },
+        {
+            "name": "Video_Effect_153",
+            "description": "Video efekti 153 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.259343984062506\""
+        },
+        {
+            "name": "Video_Effect_154",
+            "description": "Video efekti 154 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.073085050467633\""
+        },
+        {
+            "name": "Video_Effect_155",
+            "description": "Video efekti 155 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.4770071327210155\""
+        },
+        {
+            "name": "Video_Effect_156",
+            "description": "Video efekti 156 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.2701524366731092\""
+        },
+        {
+            "name": "Video_Effect_157",
+            "description": "Video efekti 157 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=0.9623266159144654\""
+        },
+        {
+            "name": "Video_Effect_158",
+            "description": "Video efekti 158 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.1408057624922487\""
+        },
+        {
+            "name": "Video_Effect_159",
+            "description": "Video efekti 159 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.3753950273542577\""
+        },
+        {
+            "name": "Video_Effect_160",
+            "description": "Video efekti 160 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=0.6488447044924076\""
+        },
+        {
+            "name": "Video_Effect_161",
+            "description": "Video efekti 161 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.3999374483778815\""
+        },
+        {
+            "name": "Video_Effect_162",
+            "description": "Video efekti 162 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.4502027364755528\""
+        },
+        {
+            "name": "Video_Effect_163",
+            "description": "Video efekti 163 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.135975212681452\""
+        },
+        {
+            "name": "Video_Effect_164",
+            "description": "Video efekti 164 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.466028251176395\""
+        },
+        {
+            "name": "Video_Effect_165",
+            "description": "Video efekti 165 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.148221699488626\""
+        },
+        {
+            "name": "Video_Effect_166",
+            "description": "Video efekti 166 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.3053007574312243\""
+        },
+        {
+            "name": "Video_Effect_167",
+            "description": "Video efekti 167 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.3003005901163642\""
+        },
+        {
+            "name": "Video_Effect_168",
+            "description": "Video efekti 168 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.1005486351238605\""
+        },
+        {
+            "name": "Video_Effect_169",
+            "description": "Video efekti 169 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.5217930660919713\""
+        },
+        {
+            "name": "Video_Effect_170",
+            "description": "Video efekti 170 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.470618175463415\""
+        },
+        {
+            "name": "Video_Effect_171",
+            "description": "Video efekti 171 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=0.6278509630309994\""
+        },
+        {
+            "name": "Video_Effect_172",
+            "description": "Video efekti 172 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.1199861705226466\""
+        },
+        {
+            "name": "Video_Effect_173",
+            "description": "Video efekti 173 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=1.36783369989712\""
+        },
+        {
+            "name": "Video_Effect_174",
+            "description": "Video efekti 174 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.2925052269133364\""
+        },
+        {
+            "name": "Video_Effect_175",
+            "description": "Video efekti 175 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=0.7932967349299866\""
+        },
+        {
+            "name": "Video_Effect_176",
+            "description": "Video efekti 176 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=1.081045541441008\""
+        },
+        {
+            "name": "Video_Effect_177",
+            "description": "Video efekti 177 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.7998912084009943\""
+        },
+        {
+            "name": "Video_Effect_178",
+            "description": "Video efekti 178 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.274982345890405\""
+        },
+        {
+            "name": "Video_Effect_179",
+            "description": "Video efekti 179 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.2899599873569982\""
+        },
+        {
+            "name": "Video_Effect_180",
+            "description": "Video efekti 180 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.2995756171307296\""
+        },
+        {
+            "name": "Video_Effect_181",
+            "description": "Video efekti 181 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.8358780871851604\""
+        },
+        {
+            "name": "Video_Effect_182",
+            "description": "Video efekti 182 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.1543180633218104\""
+        },
+        {
+            "name": "Video_Effect_183",
+            "description": "Video efekti 183 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.6387096142243615\""
+        },
+        {
+            "name": "Video_Effect_184",
+            "description": "Video efekti 184 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=0.738893058090239\""
+        },
+        {
+            "name": "Video_Effect_185",
+            "description": "Video efekti 185 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.6794203549268132\""
+        },
+        {
+            "name": "Video_Effect_186",
+            "description": "Video efekti 186 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=0.8342114959082353\""
+        },
+        {
+            "name": "Video_Effect_187",
+            "description": "Video efekti 187 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.4015260370809985\""
+        },
+        {
+            "name": "Video_Effect_188",
+            "description": "Video efekti 188 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=0.6519649907483597\""
+        },
+        {
+            "name": "Video_Effect_189",
+            "description": "Video efekti 189 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.1753107287652806\""
+        },
+        {
+            "name": "Video_Effect_190",
+            "description": "Video efekti 190 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.148640892660957\""
+        },
+        {
+            "name": "Video_Effect_191",
+            "description": "Video efekti 191 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.1950571117619724\""
+        },
+        {
+            "name": "Video_Effect_192",
+            "description": "Video efekti 192 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.4115288183545556\""
+        },
+        {
+            "name": "Video_Effect_193",
+            "description": "Video efekti 193 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.3675594296739009\""
+        },
+        {
+            "name": "Video_Effect_194",
+            "description": "Video efekti 194 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.3103319774517255\""
+        },
+        {
+            "name": "Video_Effect_195",
+            "description": "Video efekti 195 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.7470501636174341\""
+        },
+        {
+            "name": "Video_Effect_196",
+            "description": "Video efekti 196 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=0.9410328162351733\""
+        },
+        {
+            "name": "Video_Effect_197",
+            "description": "Video efekti 197 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.1840004808625695\""
+        },
+        {
+            "name": "Video_Effect_198",
+            "description": "Video efekti 198 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.6796799883475174\""
+        },
+        {
+            "name": "Video_Effect_199",
+            "description": "Video efekti 199 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=0.5948457615050964\""
+        },
+        {
+            "name": "Video_Effect_200",
+            "description": "Video efekti 200 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=0.5618510577909471\""
+        },
+        {
+            "name": "Video_Effect_201",
+            "description": "Video efekti 201 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=0.5040001619703285\""
+        },
+        {
+            "name": "Video_Effect_202",
+            "description": "Video efekti 202 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.5463820154651994\""
+        },
+        {
+            "name": "Video_Effect_203",
+            "description": "Video efekti 203 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.9899789801994301\""
+        },
+        {
+            "name": "Video_Effect_204",
+            "description": "Video efekti 204 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=0.7696254335528698\""
+        },
+        {
+            "name": "Video_Effect_205",
+            "description": "Video efekti 205 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.4034292237019366\""
+        },
+        {
+            "name": "Video_Effect_206",
+            "description": "Video efekti 206 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.3650925347775311\""
+        },
+        {
+            "name": "Video_Effect_207",
+            "description": "Video efekti 207 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=0.6672449317033635\""
+        },
+        {
+            "name": "Video_Effect_208",
+            "description": "Video efekti 208 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.5189232872896237\""
+        },
+        {
+            "name": "Video_Effect_209",
+            "description": "Video efekti 209 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.9353394457490616\""
+        },
+        {
+            "name": "Video_Effect_210",
+            "description": "Video efekti 210 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=0.9699129883118527\""
+        },
+        {
+            "name": "Video_Effect_211",
+            "description": "Video efekti 211 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.1240877551275634\""
+        },
+        {
+            "name": "Video_Effect_212",
+            "description": "Video efekti 212 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=1.1700342725598207\""
+        },
+        {
+            "name": "Video_Effect_213",
+            "description": "Video efekti 213 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.4035885915103927\""
+        },
+        {
+            "name": "Video_Effect_214",
+            "description": "Video efekti 214 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.875179944991713\""
+        },
+        {
+            "name": "Video_Effect_215",
+            "description": "Video efekti 215 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.7271959699307131\""
+        },
+        {
+            "name": "Video_Effect_216",
+            "description": "Video efekti 216 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.7827446655718565\""
+        },
+        {
+            "name": "Video_Effect_217",
+            "description": "Video efekti 217 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.6916329231566845\""
+        },
+        {
+            "name": "Video_Effect_218",
+            "description": "Video efekti 218 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=0.5650095079438358\""
+        },
+        {
+            "name": "Video_Effect_219",
+            "description": "Video efekti 219 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.4902800416742938\""
+        },
+        {
+            "name": "Video_Effect_220",
+            "description": "Video efekti 220 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=0.6406261456261664\""
+        },
+        {
+            "name": "Video_Effect_221",
+            "description": "Video efekti 221 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.4442232797676164\""
+        },
+        {
+            "name": "Video_Effect_222",
+            "description": "Video efekti 222 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.6009277904445003\""
+        },
+        {
+            "name": "Video_Effect_223",
+            "description": "Video efekti 223 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.3804612382443677\""
+        },
+        {
+            "name": "Video_Effect_224",
+            "description": "Video efekti 224 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=0.9328965074909797\""
+        },
+        {
+            "name": "Video_Effect_225",
+            "description": "Video efekti 225 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=0.9695215958601144\""
+        },
+        {
+            "name": "Video_Effect_226",
+            "description": "Video efekti 226 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=1.2343602851061064\""
+        },
+        {
+            "name": "Video_Effect_227",
+            "description": "Video efekti 227 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=0.5570751803616241\""
+        },
+        {
+            "name": "Video_Effect_228",
+            "description": "Video efekti 228 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.8448473075459114\""
+        },
+        {
+            "name": "Video_Effect_229",
+            "description": "Video efekti 229 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.8692346245850845\""
+        },
+        {
+            "name": "Video_Effect_230",
+            "description": "Video efekti 230 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.5439229427550341\""
+        },
+        {
+            "name": "Video_Effect_231",
+            "description": "Video efekti 231 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.0981950332251165\""
+        },
+        {
+            "name": "Video_Effect_232",
+            "description": "Video efekti 232 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.8860508578739954\""
+        },
+        {
+            "name": "Video_Effect_233",
+            "description": "Video efekti 233 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=0.8159099378336226\""
+        },
+        {
+            "name": "Video_Effect_234",
+            "description": "Video efekti 234 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.2695878210540608\""
+        },
+        {
+            "name": "Video_Effect_235",
+            "description": "Video efekti 235 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=1.4910010776017055\""
+        },
+        {
+            "name": "Video_Effect_236",
+            "description": "Video efekti 236 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.8242024927027518\""
+        },
+        {
+            "name": "Video_Effect_237",
+            "description": "Video efekti 237 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=0.7548630881772396\""
+        },
+        {
+            "name": "Video_Effect_238",
+            "description": "Video efekti 238 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.9179315687506892\""
+        },
+        {
+            "name": "Video_Effect_239",
+            "description": "Video efekti 239 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.7104541383877564\""
+        },
+        {
+            "name": "Video_Effect_240",
+            "description": "Video efekti 240 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.8257859581121868\""
+        },
+        {
+            "name": "Video_Effect_241",
+            "description": "Video efekti 241 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=1.0091940390121699\""
+        },
+        {
+            "name": "Video_Effect_242",
+            "description": "Video efekti 242 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=1.4184207069642985\""
+        },
+        {
+            "name": "Video_Effect_243",
+            "description": "Video efekti 243 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=0.7893187993347494\""
+        },
+        {
+            "name": "Video_Effect_244",
+            "description": "Video efekti 244 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.426456299875558\""
+        },
+        {
+            "name": "Video_Effect_245",
+            "description": "Video efekti 245 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.0012962754488899\""
+        },
+        {
+            "name": "Video_Effect_246",
+            "description": "Video efekti 246 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.5418303292032453\""
+        },
+        {
+            "name": "Video_Effect_247",
+            "description": "Video efekti 247 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.8671496737942658\""
+        },
+        {
+            "name": "Video_Effect_248",
+            "description": "Video efekti 248 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=0.7672109309514308\""
+        },
+        {
+            "name": "Video_Effect_249",
+            "description": "Video efekti 249 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.2968653520908147\""
+        },
+        {
+            "name": "Video_Effect_250",
+            "description": "Video efekti 250 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.443513659271149\""
+        },
+        {
+            "name": "Video_Effect_251",
+            "description": "Video efekti 251 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.5333917159116671\""
+        },
+        {
+            "name": "Video_Effect_252",
+            "description": "Video efekti 252 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.4481712028400255\""
+        },
+        {
+            "name": "Video_Effect_253",
+            "description": "Video efekti 253 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.1883140994524664\""
+        },
+        {
+            "name": "Video_Effect_254",
+            "description": "Video efekti 254 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.098928936324826\""
+        },
+        {
+            "name": "Video_Effect_255",
+            "description": "Video efekti 255 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.87362283953071\""
+        },
+        {
+            "name": "Video_Effect_256",
+            "description": "Video efekti 256 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=0.8347846586650295\""
+        },
+        {
+            "name": "Video_Effect_257",
+            "description": "Video efekti 257 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.9493863204429879\""
+        },
+        {
+            "name": "Video_Effect_258",
+            "description": "Video efekti 258 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=0.5507746904645602\""
+        },
+        {
+            "name": "Video_Effect_259",
+            "description": "Video efekti 259 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.0651771229301041\""
+        },
+        {
+            "name": "Video_Effect_260",
+            "description": "Video efekti 260 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.9382825774387852\""
+        },
+        {
+            "name": "Video_Effect_261",
+            "description": "Video efekti 261 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.4500549890526098\""
+        },
+        {
+            "name": "Video_Effect_262",
+            "description": "Video efekti 262 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.7326288532809989\""
+        },
+        {
+            "name": "Video_Effect_263",
+            "description": "Video efekti 263 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=0.5463971892442517\""
+        },
+        {
+            "name": "Video_Effect_264",
+            "description": "Video efekti 264 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.5351036748984298\""
+        },
+        {
+            "name": "Video_Effect_265",
+            "description": "Video efekti 265 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=1.3374281294880057\""
+        },
+        {
+            "name": "Video_Effect_266",
+            "description": "Video efekti 266 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.316124328033981\""
+        },
+        {
+            "name": "Video_Effect_267",
+            "description": "Video efekti 267 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.0890861915611127\""
+        },
+        {
+            "name": "Video_Effect_268",
+            "description": "Video efekti 268 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.2117077329249908\""
+        },
+        {
+            "name": "Video_Effect_269",
+            "description": "Video efekti 269 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.971918760509391\""
+        },
+        {
+            "name": "Video_Effect_270",
+            "description": "Video efekti 270 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.1148662259169526\""
+        },
+        {
+            "name": "Video_Effect_271",
+            "description": "Video efekti 271 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.5586662232619979\""
+        },
+        {
+            "name": "Video_Effect_272",
+            "description": "Video efekti 272 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.5709752704705314\""
+        },
+        {
+            "name": "Video_Effect_273",
+            "description": "Video efekti 273 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=0.9716595056088403\""
+        },
+        {
+            "name": "Video_Effect_274",
+            "description": "Video efekti 274 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=0.573156544870671\""
+        },
+        {
+            "name": "Video_Effect_275",
+            "description": "Video efekti 275 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=0.9424612766928662\""
+        },
+        {
+            "name": "Video_Effect_276",
+            "description": "Video efekti 276 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=1.3879037176279865\""
+        },
+        {
+            "name": "Video_Effect_277",
+            "description": "Video efekti 277 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.2919508614477762\""
+        },
+        {
+            "name": "Video_Effect_278",
+            "description": "Video efekti 278 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.1559344531057145\""
+        },
+        {
+            "name": "Video_Effect_279",
+            "description": "Video efekti 279 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.0621803885238554\""
+        },
+        {
+            "name": "Video_Effect_280",
+            "description": "Video efekti 280 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.4520097200064734\""
+        },
+        {
+            "name": "Video_Effect_281",
+            "description": "Video efekti 281 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=0.7534679963566071\""
+        },
+        {
+            "name": "Video_Effect_282",
+            "description": "Video efekti 282 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=0.5290792496185026\""
+        },
+        {
+            "name": "Video_Effect_283",
+            "description": "Video efekti 283 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.028590882669067\""
+        },
+        {
+            "name": "Video_Effect_284",
+            "description": "Video efekti 284 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"grayscale=0.8673201043127651\""
+        },
+        {
+            "name": "Video_Effect_285",
+            "description": "Video efekti 285 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"vignette=1.2648101182083353\""
+        },
+        {
+            "name": "Video_Effect_286",
+            "description": "Video efekti 286 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.252072743360067\""
+        },
+        {
+            "name": "Video_Effect_287",
+            "description": "Video efekti 287 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"brightness=1.1051465601144428\""
+        },
+        {
+            "name": "Video_Effect_288",
+            "description": "Video efekti 288 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=0.8945964563634747\""
+        },
+        {
+            "name": "Video_Effect_289",
+            "description": "Video efekti 289 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.6944674892682365\""
+        },
+        {
+            "name": "Video_Effect_290",
+            "description": "Video efekti 290 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=1.113531905502239\""
+        },
+        {
+            "name": "Video_Effect_291",
+            "description": "Video efekti 291 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=0.7757047089023899\""
+        },
+        {
+            "name": "Video_Effect_292",
+            "description": "Video efekti 292 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.4411002886755524\""
+        },
+        {
+            "name": "Video_Effect_293",
+            "description": "Video efekti 293 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=0.9175987955550428\""
+        },
+        {
+            "name": "Video_Effect_294",
+            "description": "Video efekti 294 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=0.7450812406218811\""
+        },
+        {
+            "name": "Video_Effect_295",
+            "description": "Video efekti 295 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sepia=1.2934486595253225\""
+        },
+        {
+            "name": "Video_Effect_296",
+            "description": "Video efekti 296 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=0.5901576852900088\""
+        },
+        {
+            "name": "Video_Effect_297",
+            "description": "Video efekti 297 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"invert=1.272138734372628\""
+        },
+        {
+            "name": "Video_Effect_298",
+            "description": "Video efekti 298 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"sharpen=0.526640097371297\""
+        },
+        {
+            "name": "Video_Effect_299",
+            "description": "Video efekti 299 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"blur=1.4330619933604498\""
+        },
+        {
+            "name": "Video_Effect_300",
+            "description": "Video efekti 300 a\u00e7\u0131klamas\u0131",
+            "command": "-vf \"contrast=1.4460531266042405\""
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Moventy</string>
+    <string name="select_video">Select Video</string>
+    <string name="apply_effect">Apply Effect</string>
+    <string name="export_video">Export Video</string>
+    <string name="editor_title">Video Editor</string>
+</resources>

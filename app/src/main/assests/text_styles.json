@@ -1,0 +1,804 @@
+{
+    "text_styles": [
+        {
+            "name": "Text_Style_1",
+            "description": "Yaz\u0131 stili 1 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 22,
+            "style": "underline",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_2",
+            "description": "Yaz\u0131 stili 2 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 33,
+            "style": "underline",
+            "color": "#FF5733"
+        },
+        {
+            "name": "Text_Style_3",
+            "description": "Yaz\u0131 stili 3 a\u00e7\u0131klamas\u0131",
+            "font": "Helvetica",
+            "size": 37,
+            "style": "italic",
+            "color": "#33FF57"
+        },
+        {
+            "name": "Text_Style_4",
+            "description": "Yaz\u0131 stili 4 a\u00e7\u0131klamas\u0131",
+            "font": "Helvetica",
+            "size": 28,
+            "style": "bold",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_5",
+            "description": "Yaz\u0131 stili 5 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 27,
+            "style": "bold",
+            "color": "#FF5733"
+        },
+        {
+            "name": "Text_Style_6",
+            "description": "Yaz\u0131 stili 6 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 27,
+            "style": "underline",
+            "color": "#FF5733"
+        },
+        {
+            "name": "Text_Style_7",
+            "description": "Yaz\u0131 stili 7 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 24,
+            "style": "italic",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_8",
+            "description": "Yaz\u0131 stili 8 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 44,
+            "style": "italic",
+            "color": "#FF5733"
+        },
+        {
+            "name": "Text_Style_9",
+            "description": "Yaz\u0131 stili 9 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 22,
+            "style": "bold",
+            "color": "#33FF57"
+        },
+        {
+            "name": "Text_Style_10",
+            "description": "Yaz\u0131 stili 10 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 41,
+            "style": "underline",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_11",
+            "description": "Yaz\u0131 stili 11 a\u00e7\u0131klamas\u0131",
+            "font": "Helvetica",
+            "size": 31,
+            "style": "italic",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_12",
+            "description": "Yaz\u0131 stili 12 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 28,
+            "style": "bold",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_13",
+            "description": "Yaz\u0131 stili 13 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 50,
+            "style": "italic",
+            "color": "#FF5733"
+        },
+        {
+            "name": "Text_Style_14",
+            "description": "Yaz\u0131 stili 14 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 28,
+            "style": "bold",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_15",
+            "description": "Yaz\u0131 stili 15 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 42,
+            "style": "bold",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_16",
+            "description": "Yaz\u0131 stili 16 a\u00e7\u0131klamas\u0131",
+            "font": "Helvetica",
+            "size": 49,
+            "style": "bold",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_17",
+            "description": "Yaz\u0131 stili 17 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 20,
+            "style": "underline",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_18",
+            "description": "Yaz\u0131 stili 18 a\u00e7\u0131klamas\u0131",
+            "font": "Helvetica",
+            "size": 29,
+            "style": "bold",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_19",
+            "description": "Yaz\u0131 stili 19 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 25,
+            "style": "underline",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_20",
+            "description": "Yaz\u0131 stili 20 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 45,
+            "style": "bold",
+            "color": "#FF5733"
+        },
+        {
+            "name": "Text_Style_21",
+            "description": "Yaz\u0131 stili 21 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 37,
+            "style": "underline",
+            "color": "#33FF57"
+        },
+        {
+            "name": "Text_Style_22",
+            "description": "Yaz\u0131 stili 22 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 26,
+            "style": "underline",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_23",
+            "description": "Yaz\u0131 stili 23 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 39,
+            "style": "underline",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_24",
+            "description": "Yaz\u0131 stili 24 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 47,
+            "style": "bold",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_25",
+            "description": "Yaz\u0131 stili 25 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 21,
+            "style": "bold",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_26",
+            "description": "Yaz\u0131 stili 26 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 46,
+            "style": "italic",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_27",
+            "description": "Yaz\u0131 stili 27 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 35,
+            "style": "bold",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_28",
+            "description": "Yaz\u0131 stili 28 a\u00e7\u0131klamas\u0131",
+            "font": "Helvetica",
+            "size": 39,
+            "style": "bold",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_29",
+            "description": "Yaz\u0131 stili 29 a\u00e7\u0131klamas\u0131",
+            "font": "Helvetica",
+            "size": 28,
+            "style": "bold",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_30",
+            "description": "Yaz\u0131 stili 30 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 30,
+            "style": "bold",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_31",
+            "description": "Yaz\u0131 stili 31 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 24,
+            "style": "italic",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_32",
+            "description": "Yaz\u0131 stili 32 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 50,
+            "style": "underline",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_33",
+            "description": "Yaz\u0131 stili 33 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 32,
+            "style": "italic",
+            "color": "#33FF57"
+        },
+        {
+            "name": "Text_Style_34",
+            "description": "Yaz\u0131 stili 34 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 49,
+            "style": "italic",
+            "color": "#FF5733"
+        },
+        {
+            "name": "Text_Style_35",
+            "description": "Yaz\u0131 stili 35 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 27,
+            "style": "underline",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_36",
+            "description": "Yaz\u0131 stili 36 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 28,
+            "style": "italic",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_37",
+            "description": "Yaz\u0131 stili 37 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 31,
+            "style": "italic",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_38",
+            "description": "Yaz\u0131 stili 38 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 28,
+            "style": "italic",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_39",
+            "description": "Yaz\u0131 stili 39 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 38,
+            "style": "underline",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_40",
+            "description": "Yaz\u0131 stili 40 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 35,
+            "style": "underline",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_41",
+            "description": "Yaz\u0131 stili 41 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 27,
+            "style": "italic",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_42",
+            "description": "Yaz\u0131 stili 42 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 29,
+            "style": "bold",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_43",
+            "description": "Yaz\u0131 stili 43 a\u00e7\u0131klamas\u0131",
+            "font": "Helvetica",
+            "size": 44,
+            "style": "bold",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_44",
+            "description": "Yaz\u0131 stili 44 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 42,
+            "style": "italic",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_45",
+            "description": "Yaz\u0131 stili 45 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 42,
+            "style": "italic",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_46",
+            "description": "Yaz\u0131 stili 46 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 37,
+            "style": "bold",
+            "color": "#FF5733"
+        },
+        {
+            "name": "Text_Style_47",
+            "description": "Yaz\u0131 stili 47 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 40,
+            "style": "underline",
+            "color": "#FF5733"
+        },
+        {
+            "name": "Text_Style_48",
+            "description": "Yaz\u0131 stili 48 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 35,
+            "style": "italic",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_49",
+            "description": "Yaz\u0131 stili 49 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 29,
+            "style": "bold",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_50",
+            "description": "Yaz\u0131 stili 50 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 28,
+            "style": "underline",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_51",
+            "description": "Yaz\u0131 stili 51 a\u00e7\u0131klamas\u0131",
+            "font": "Helvetica",
+            "size": 26,
+            "style": "underline",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_52",
+            "description": "Yaz\u0131 stili 52 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 21,
+            "style": "italic",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_53",
+            "description": "Yaz\u0131 stili 53 a\u00e7\u0131klamas\u0131",
+            "font": "Helvetica",
+            "size": 41,
+            "style": "bold",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_54",
+            "description": "Yaz\u0131 stili 54 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 26,
+            "style": "italic",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_55",
+            "description": "Yaz\u0131 stili 55 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 26,
+            "style": "bold",
+            "color": "#33FF57"
+        },
+        {
+            "name": "Text_Style_56",
+            "description": "Yaz\u0131 stili 56 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 32,
+            "style": "underline",
+            "color": "#33FF57"
+        },
+        {
+            "name": "Text_Style_57",
+            "description": "Yaz\u0131 stili 57 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 24,
+            "style": "bold",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_58",
+            "description": "Yaz\u0131 stili 58 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 21,
+            "style": "italic",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_59",
+            "description": "Yaz\u0131 stili 59 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 41,
+            "style": "underline",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_60",
+            "description": "Yaz\u0131 stili 60 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 31,
+            "style": "underline",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_61",
+            "description": "Yaz\u0131 stili 61 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 26,
+            "style": "bold",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_62",
+            "description": "Yaz\u0131 stili 62 a\u00e7\u0131klamas\u0131",
+            "font": "Helvetica",
+            "size": 29,
+            "style": "bold",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_63",
+            "description": "Yaz\u0131 stili 63 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 22,
+            "style": "italic",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_64",
+            "description": "Yaz\u0131 stili 64 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 20,
+            "style": "bold",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_65",
+            "description": "Yaz\u0131 stili 65 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 20,
+            "style": "underline",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_66",
+            "description": "Yaz\u0131 stili 66 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 48,
+            "style": "underline",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_67",
+            "description": "Yaz\u0131 stili 67 a\u00e7\u0131klamas\u0131",
+            "font": "Helvetica",
+            "size": 40,
+            "style": "bold",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_68",
+            "description": "Yaz\u0131 stili 68 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 27,
+            "style": "italic",
+            "color": "#33FF57"
+        },
+        {
+            "name": "Text_Style_69",
+            "description": "Yaz\u0131 stili 69 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 32,
+            "style": "underline",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_70",
+            "description": "Yaz\u0131 stili 70 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 24,
+            "style": "bold",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_71",
+            "description": "Yaz\u0131 stili 71 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 43,
+            "style": "italic",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_72",
+            "description": "Yaz\u0131 stili 72 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 28,
+            "style": "italic",
+            "color": "#33FF57"
+        },
+        {
+            "name": "Text_Style_73",
+            "description": "Yaz\u0131 stili 73 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 49,
+            "style": "italic",
+            "color": "#FF5733"
+        },
+        {
+            "name": "Text_Style_74",
+            "description": "Yaz\u0131 stili 74 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 39,
+            "style": "bold",
+            "color": "#33FF57"
+        },
+        {
+            "name": "Text_Style_75",
+            "description": "Yaz\u0131 stili 75 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 34,
+            "style": "bold",
+            "color": "#33FF57"
+        },
+        {
+            "name": "Text_Style_76",
+            "description": "Yaz\u0131 stili 76 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 38,
+            "style": "bold",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_77",
+            "description": "Yaz\u0131 stili 77 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 26,
+            "style": "bold",
+            "color": "#FF5733"
+        },
+        {
+            "name": "Text_Style_78",
+            "description": "Yaz\u0131 stili 78 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 38,
+            "style": "italic",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_79",
+            "description": "Yaz\u0131 stili 79 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 49,
+            "style": "italic",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_80",
+            "description": "Yaz\u0131 stili 80 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 43,
+            "style": "underline",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_81",
+            "description": "Yaz\u0131 stili 81 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 41,
+            "style": "italic",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_82",
+            "description": "Yaz\u0131 stili 82 a\u00e7\u0131klamas\u0131",
+            "font": "Helvetica",
+            "size": 27,
+            "style": "underline",
+            "color": "#33FF57"
+        },
+        {
+            "name": "Text_Style_83",
+            "description": "Yaz\u0131 stili 83 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 23,
+            "style": "bold",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_84",
+            "description": "Yaz\u0131 stili 84 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 38,
+            "style": "underline",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_85",
+            "description": "Yaz\u0131 stili 85 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 50,
+            "style": "bold",
+            "color": "#FF5733"
+        },
+        {
+            "name": "Text_Style_86",
+            "description": "Yaz\u0131 stili 86 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 23,
+            "style": "bold",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_87",
+            "description": "Yaz\u0131 stili 87 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 23,
+            "style": "italic",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_88",
+            "description": "Yaz\u0131 stili 88 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 25,
+            "style": "underline",
+            "color": "#33FF57"
+        },
+        {
+            "name": "Text_Style_89",
+            "description": "Yaz\u0131 stili 89 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 27,
+            "style": "italic",
+            "color": "#FF5733"
+        },
+        {
+            "name": "Text_Style_90",
+            "description": "Yaz\u0131 stili 90 a\u00e7\u0131klamas\u0131",
+            "font": "Helvetica",
+            "size": 39,
+            "style": "bold",
+            "color": "#33FF57"
+        },
+        {
+            "name": "Text_Style_91",
+            "description": "Yaz\u0131 stili 91 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 44,
+            "style": "underline",
+            "color": "#FF5733"
+        },
+        {
+            "name": "Text_Style_92",
+            "description": "Yaz\u0131 stili 92 a\u00e7\u0131klamas\u0131",
+            "font": "Verdana",
+            "size": 31,
+            "style": "italic",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_93",
+            "description": "Yaz\u0131 stili 93 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 23,
+            "style": "italic",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_94",
+            "description": "Yaz\u0131 stili 94 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 49,
+            "style": "underline",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_95",
+            "description": "Yaz\u0131 stili 95 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 30,
+            "style": "bold",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_96",
+            "description": "Yaz\u0131 stili 96 a\u00e7\u0131klamas\u0131",
+            "font": "Times New Roman",
+            "size": 20,
+            "style": "bold",
+            "color": "#F3F333"
+        },
+        {
+            "name": "Text_Style_97",
+            "description": "Yaz\u0131 stili 97 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 39,
+            "style": "underline",
+            "color": "#33FF57"
+        },
+        {
+            "name": "Text_Style_98",
+            "description": "Yaz\u0131 stili 98 a\u00e7\u0131klamas\u0131",
+            "font": "Georgia",
+            "size": 46,
+            "style": "underline",
+            "color": "#F33FF3"
+        },
+        {
+            "name": "Text_Style_99",
+            "description": "Yaz\u0131 stili 99 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 35,
+            "style": "bold",
+            "color": "#3357FF"
+        },
+        {
+            "name": "Text_Style_100",
+            "description": "Yaz\u0131 stili 100 a\u00e7\u0131klamas\u0131",
+            "font": "Arial",
+            "size": 30,
+            "style": "bold",
+            "color": "#33FF57"
+        }
+    ]
+}
